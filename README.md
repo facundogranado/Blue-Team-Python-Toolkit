@@ -7,9 +7,7 @@
 
 **Blue Team Python Toolkit** es un conjunto de herramientas desarrolladas en Python orientadas a la detección, análisis e investigación de eventos de seguridad desde una perspectiva defensiva.
 
-El proyecto está diseñado para simular escenarios realistas de ciberseguridad, aplicando conceptos técnicos utilizados en entornos de monitoreo, análisis de tráfico y respuesta ante incidentes.
-
-No se trata únicamente de scripts, sino de una demostración práctica de capacidades técnicas aplicadas al análisis defensivo.
+El proyecto está diseñado para simular escenarios de ciberseguridad, aplicando conceptos técnicos utilizados en entornos de monitoreo, análisis de tráfico y respuesta ante incidentes.
 
 
 #  Objetivos
